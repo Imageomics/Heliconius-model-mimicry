@@ -6,6 +6,10 @@ The images used for training this model were sourced from the [Heliconius Collec
 
 3,822 dorsal images of Heliconius butterflies were sourced from this subset of Chris Jiggins' research group's collection from the University of Cambridge. They are all subspecies of either _Heliconius melpomene_ or _Heliconius erato_.
 
+
+![subspecies distribution colored by species](https://github.com/user-attachments/assets/becde32a-0024-41f1-9304-2e6040eb7231)
+
+
 ### How to Access
 
 Install the [cautious-robot](https://github.com/Imageomics/cautious-robot) package.
