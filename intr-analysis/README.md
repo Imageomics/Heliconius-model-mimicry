@@ -4,3 +4,8 @@ This analysis uses interpretable deep learning approaches to identify the wing p
 
 We also evaluate how these attention patterns change across different simulated visual acuities.
 
+To run this analysis, clone the [INTR repo](https://github.com/imageomics/INTR), follow their installation instructions, and replace the following two files with those contained in this directory, adding also the `bash_scripts/` directory.
+1. `models/intr.py`
+2. `main.py`
+
+TODO: Check on this procedure. Where does notebook match in pipeline.
